@@ -9,7 +9,7 @@ export default {
       { name: 'format-detection', content: 'telephone=no' },
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
-    script: [{ src: 'https://d.line-scdn.net/liff/1.0/sdk.js' }], //ADD HERE
+    script: [{ src: 'https://static.line-scdn.net/liff/edge/2/sdk.js' }], //ADD HERE
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
